@@ -13,7 +13,8 @@
 #### 软件架构
 
 软件架构说明
-![image](https://github.com/luocong-shuaige/fresh-fruit-supermarket/assets/85004172/9d495e03-c0f4-478e-9f83-fbc56309e164)
+![4b42a19994a02f51bff661968b05f2ee](https://github.com/user-attachments/assets/ea2f0b28-b10b-4a75-9a81-5a092e638b5e)
+
 
 #### 安装教程🌞
 
@@ -45,14 +46,15 @@ SpringBoot+Vue项目的部署详情可以查看这篇CSDN博客：http://t.csdni
 
 **用户端**
 
-![GIF 2024-7-29 23-08-58](https://github.com/user-attachments/assets/350003fc-c6df-4a95-9d73-4c32d37dcfcb)
+![GIF 2024-7-29 23-08-58](https://github.com/user-attachments/assets/5b3815e0-8cdf-4115-aa60-df3919926a5f)
 
-![GIF 2024-7-29 23-15-13](https://github.com/user-attachments/assets/22027bd6-2241-4e54-9b84-0ed4e0ba0fb8)
+![GIF 2024-7-29 23-15-13](https://github.com/user-attachments/assets/a9a01461-508f-4ae4-9a1a-606cd8cbf958)
 
 
 **管理端**
 
-![GIF 2024-7-29 23-17-21](https://github.com/user-attachments/assets/b9ee5f91-2251-4f82-b67e-f69361a52e8b)
+![GIF 2024-7-29 23-17-21](https://github.com/user-attachments/assets/3dbec382-2400-4384-bc6a-1f0e0d574db6)
+
 
 #### 参与贡献🌞
 
